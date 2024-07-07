@@ -1,5 +1,6 @@
 # operatesystem_course_design
-file manage system
+操作系统课程设计
+文件管理系统，模拟windows文件管理器ui界面，构建基本的文件数据结构，实现文件的基本操作
 # git & github 基本流程
 * git init 生成本地仓库
 * git add -A 工作区到暂存区
